@@ -1,6 +1,6 @@
 # Pure knowledge
 
-In this repo I collect something that I found interesting during learning different programming languages.
+This repo is mostly dedicated to learning about Ethereum smart contracts using Solidity and Java.
 
 ## Getting Started with Solidity contracts
 
